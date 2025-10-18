@@ -3,12 +3,7 @@
     "prefix": ["rbx:side-bar-link"],
     "description": "Link to expand the left nav tree",
     "body": [
-      "<SideBarLink nodeId='${1:/leftnav-nodeId}'>",
-      "\t${0}",
-      "</SideBarLink>"
-    ],
-    "scope": "markdown"
-  },
+      "<Side
   "Markdown HomePageNewsCard": {
     "prefix": ["rbx:home-page-news-card"],
     "description": "News Card in landing page",
